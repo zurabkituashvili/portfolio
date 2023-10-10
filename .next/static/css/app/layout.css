@@ -566,6 +566,9 @@ video {
 .relative {
   position: relative;
 }
+.inset-0 {
+  inset: 0px;
+}
 .-right-40 {
   right: -10rem;
 }
@@ -720,6 +723,12 @@ video {
 }
 .overflow-hidden {
   overflow: hidden;
+}
+.scroll-smooth {
+  scroll-behavior: smooth;
+}
+.\!scroll-smooth {
+  scroll-behavior: smooth !important;
 }
 .rounded-full {
   border-radius: 9999px;
