@@ -67,6 +67,7 @@ export const projectsData = [
       "I worked as a full-stack developer on this startup project. Users can register, create posts, interact and so on.",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Clerk", "shadcn"],
     imageUrl: reviewMeApp,
+    link: "https://review-me-app.vercel.app/",
   },
   {
     title: "ChatApp",
@@ -74,6 +75,7 @@ export const projectsData = [
       "A chat app that allows multiple users to chat in real-time. It uses Socket.io",
     tags: ["React", "TypeScript", "Node.js", "Bootstrap", "Socket.io", "SQL"],
     imageUrl: chat,
+    link: "https://frontend-chat-sigma.vercel.app/",
   },
   {
     title: "ShooterGame",
@@ -81,6 +83,7 @@ export const projectsData = [
       "A shooter game that allows users to shoot and kill enemies. All the scores are being recorded on a leaderboard. Players can rejoin anytime they want!",
     tags: ["React", "Node.js", "SQL", "Bootsstrap", "Socket.io"],
     imageUrl: shooter,
+    link: "https://shooter-76iv.onrender.com/",
   },
 ] as const;
 
