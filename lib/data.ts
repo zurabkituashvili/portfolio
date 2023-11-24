@@ -81,7 +81,7 @@ export const projectsData = [
     title: "ShooterGame",
     description:
       "A shooter game that allows users to shoot and kill enemies. All the scores are being recorded on a leaderboard. Players can rejoin anytime they want!",
-    tags: ["React", "Node.js", "SQL", "Bootsstrap", "Socket.io"],
+    tags: ["React", "Node.js", "SQL", "Bootstrap", "Socket.io"],
     imageUrl: shooter,
     link: "https://shooter-76iv.onrender.com/",
   },
